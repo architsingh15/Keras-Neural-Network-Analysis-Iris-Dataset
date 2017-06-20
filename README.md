@@ -11,3 +11,5 @@ Algorithm:
   3) Did the one hot encoding or created dummy variables from a categorical variable using scikit-learn class LabelEncoder and then we convert the vector of integers to a one hot encoding using the Keras function to_categorical().
   4) Defined the Neural Network Model(Keras Classifier) {4 input variables -> [4 nodes in hidden layer] -> 3 output variables}
   5) Evaluated the model using K-Fold Cross Validation and also computed the accuracy of the classifier. 
+
+Under update! please be patient
